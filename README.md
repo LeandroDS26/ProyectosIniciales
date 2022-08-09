@@ -1,2 +1,0 @@
-# ProyectosIniciales
-Uso para estudios
